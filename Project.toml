@@ -69,7 +69,7 @@ JutulWriteVTKExt = "WriteVTK"
 
 [compat]
 AMDGPU = "1, 2"
-AMGCLWrap = "=0.3.2"
+AMGCLWrap = "=0.3.2, 2"
 Adapt = "4"
 CUDA = "5, 6"
 Crayons = "4.1.1"
